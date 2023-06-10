@@ -1,0 +1,14 @@
+{
+  "name": "vocabularies",
+  "version": "1.0.0",
+  "description": "1. [教育部 十二年國民基本教育課程綱要國民中小學暨普通型高級中等學校語文領域-英語文]( https://www.naer.edu.tw/upload/1/16/doc/812/%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%9A%A8%E6%99%AE%E9%80%9A%E5%9E%8B%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1%E8%AA%9E%E6%96%87%E9%A0%98%E5%9F%9F%E2%94%80%E8%8B%B1%E8%AA%9E%E6%96%87.odt )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "input": "^1.0.1"
+  }
+}
