@@ -1,6 +1,10 @@
 const input = (await import("input")).default;
+const fs = await import("node:fs");
 
-let source = await input.text("Source：");
+const [sourcePath, resultPath] = process.argv.slice(2);
+let source = sourcePath
+	? fs.readFileSync(sourcePath).toString()
+	: await input.text("Source：");
 /* e.g.
 ```
 	..., bake, bark, be (is, am, are, was, were), book, boss, ..., have (had, had), heat, ...
@@ -25,6 +29,13 @@ let resultArray = source
 		}
 	});
 
-console.log(JSON.stringify(resultArray));
+let result = JSON.stringify(resultArray);
+
+if(resultPath){
+	let file = fs.openSync(resultPath, "wx");
+	fs.writeSync(file, result);
+}else{
+	console.log(result);
+}
 
 

@@ -1,0 +1,309 @@
+[
+	{
+		"name": "People",
+		"children": [
+			[{"word":"adult"},{"word":"angel"},{"word":"baby"},{"word":"boy"},{"word":"child"},{"word":"couple"},{"word":"customer"},{"word":"fool"},{"word":"genius"},{"word":"gentleman"},{"word":"giant"},{"word":"girl"},{"word":"guest"},{"word":"guy"},{"word":"hero"},{"word":"host"},{"word":"kid"},{"word":"king"},{"word":"lady"},{"word":"male"},{"word":"man"},{"word":"master"},{"word":"neighbor"},{"word":"partner"},{"word":"people"},{"word":"person"},{"word":"prince"},{"word":"princess"},{"word":"queen"},{"word":"stranger"},{"word":"teenager"},{"word":"visitor"},{"word":"woman"},{"word":"youth"}]
+		]
+	},
+	{
+		"name": "Personal characteristics",
+		"children": [
+			[{"word":"beautiful"},{"word":"blind"},{"word":"chubby"},{"word":"cute"},{"word":"deaf"},{"word":"dumb"},{"word":"fat"},{"word":"handsome"},{"word":"heavy"},{"word":"nice-looking"},{"word":"old"},{"word":"over-weight"},{"word":"pretty"},{"word":"short"},{"word":"skinny"},{"word":"slender"},{"word":"slim"},{"word":"tall"},{"word":"thin"},{"word":"under-weight"},{"word":"ugly"},{"word":"young"}],
+			[{"word":"active"},{"word":"angry"},{"word":"bad"},{"word":"bored"},{"word":"boring"},{"word":"brave"},{"word":"busy"},{"word":"careful"},{"word":"careless"},{"word":"childish"},{"word":"childlike"},{"word":"clever"},{"word":"confident"},{"word":"considerate"},{"word":"cool"},{"word":"crazy"},{"word":"cruel"},{"word":"curious"},{"word":"diligent"},{"word":"dishonest"},{"word":"evil"},{"word":"energetic"},{"word":"excited"},{"word":"exciting"},{"word":"famous"},{"word":"foolish"},{"word":"frank"},{"word":"friendly"},{"word":"funny"},{"word":"gentle"},{"word":"generous"},{"word":"good"},{"word":"greedy"},{"word":"happy"},{"word":"hard-working"},{"word":"honest"},{"word":"humble"},{"word":"humorous"},{"word":"impolite"},{"word":"intelligent"},{"word":"interested"},{"word":"jealous"},{"word":"kind"},{"word":"lazy"},{"word":"lonely"},{"word":"lovely"},{"word":"mad"},{"word":"naughty"},{"word":"nervous"},{"word":"nice"},{"word":"patient"},{"word":"polite"},{"word":"poor"},{"word":"proud"},{"word":"rich"},{"word":"rude"},{"word":"sad"},{"word":"scared"},{"word":"selfish"},{"word":"shy"},{"word":"silly"},{"word":"sincere"},{"word":"smart"},{"word":"sneaky"},{"word":"stingy"},{"word":"stupid"},{"word":"successful"},{"word":"talkative"},{"word":"unhappy"},{"word":"wise"}]
+		]
+	},
+	{
+		"name": "Parts of body",
+		"children": [
+			[{"word":"beard"},{"word":"chin"},{"word":"ear"},{"word":"eye"},{"word":"face"},{"word":"hair"},{"word":"lip"},{"word":"mouth"},{"word":"nose"},{"word":"tongue"},{"word":"tooth"}],
+			[{"word":"ankle"},{"word":"arm"},{"word":"back"},{"word":"body"},{"word":"bone"},{"word":"finger"},{"word":"foot"},{"word":"hand"},{"word":"head"},{"word":"hip"},{"word":"knee"},{"word":"leg"},{"word":"nail"},{"word":"neck"},{"word":"shoulder"},{"word":"skin"},{"word":"throat"},{"word":"thumb"},{"word":"toe"},{"word":"waist"},{"word":"wrist"}],
+			[{"word":"heart"},{"word":"stomach"}]
+		]
+	},
+	{
+		"name": "Health",
+		"children": [
+			[{"word":"comfortable"},{"word":"dizzy"},{"word":"healthy"},{"word":"ill"},{"word":"painful"},{"word":"pale"},{"word":"sick"},{"word":"strong"},{"word":"tired"},{"word":"weak"},{"word":"well"},{"word":"wound"}],
+			[{"word":"cancer"},{"word":"cold"},{"word":"flu"},{"word":"headache"},{"word":"stomachache"},{"word":"toothache"}],
+			[{"word":"cough"},{"word":"fever"},{"word":"pain"},{"word":"sore throat"}],
+			[{"word":"cure"},{"word":"recover"}],
+			[{"word":"death"},{"word":"health"},{"word":"life"},{"word":"medicine"}]
+		]
+	},
+	{
+		"name": "Forms of address",
+		"children": [
+			[{"word":"Dr."},{"word":"Mr."},{"word":"Mrs."},{"word":"Miss"},{"word":"Ms."},{"word":"sir"},{"word":"ma'am"},{"word":"name"}]
+		]
+	},
+	{
+		"name": "Family",
+		"children": [
+			[{"word":"aunt"},{"word":"brother"},{"word":"cousin"},{"word":"daughter"},{"word":"elder"},{"word":"family"},{"word":"father","aliases":["dad","daddy"]},{"word":"granddaughter"},{"word":"grandfather","aliases":["grandpa"]},{"word":"grandmother","aliases":["grandma"]},{"word":"grandson"},{"word":"husband"},{"word":"mother","aliases":["mom","mommy"]},{"word":"nephew"},{"word":"niece"},{"word":"parent"},{"word":"relative"},{"word":"sister"},{"word":"son"},{"word":"uncle"},{"word":"wife"}],
+			[{"word":"born"},{"word":"grow"},{"word":"live"},{"word":"marry"},{"word":"married"}]
+		]
+	},
+	{
+		"name": "Numbers",
+		"children": [
+			[{"word":"zero"},{"word":"one"},{"word":"two"},{"word":"three"},{"word":"four"},{"word":"five"},{"word":"six"},{"word":"seven"},{"word":"eight"},{"word":"nine"},{"word":"ten"},{"word":"eleven"},{"word":"twelve"},{"word":"thirteen"},{"word":"fourteen"},{"word":"fifteen"},{"word":"sixteen"},{"word":"seventeen"},{"word":"eighteen"},{"word":"nineteen"},{"word":"twenty"},{"word":"thirty"},{"word":"forty"},{"word":"fifty"},{"word":"sixty"},{"word":"seventy"},{"word":"eighty"},{"word":"ninety"},{"word":"hundred"},{"word":"thousand"},{"word":"million"}],
+			[{"word":"first"},{"word":"second"},{"word":"third"},{"word":"last"}],
+			[{"word":"all"},{"word":"a few"},{"word":"a little"},{"word":"a lot"},{"word":"any"},{"word":"both"},{"word":"few"},{"word":"less"},{"word":"little"},{"word":"many"},{"word":"more"},{"word":"much"},{"word":"number"},{"word":"several"},{"word":"some"},{"word":"total"}]
+		]
+	},
+	{
+		"name": "Time",
+		"children": [
+			[{"word":"dawn"},{"word":"morning"},{"word":"noon"},{"word":"afternoon"},{"word":"evening"},{"word":"night"},{"word":"midnight"}],
+			[{"word":"Monday"},{"word":"Tuesday"},{"word":"Wednesday"},{"word":"Thursday"},{"word":"Friday"},{"word":"Saturday"},{"word":"Sunday"},{"word":"week"},{"word":"weekday"},{"word":"weekend"}],
+			[{"word":"month"},{"word":"January"},{"word":"February"},{"word":"March"},{"word":"April"},{"word":"May"},{"word":"June"},{"word":"July"},{"word":"August"},{"word":"September"},{"word":"October"},{"word":"November"},{"word":"December"}],
+			[{"word":"season"},{"word":"spring"},{"word":"summer"},{"word":"autumn","aliases":["fall"]},{"word":"winter"}],
+			[{"word":"alarm clock"},{"word":"calendar"},{"word":"clock"},{"word":"watch"},{"word":"stop watch"}],
+			[{"word":"a.m."},{"word":"p.m."},{"word":"half"},{"word":"hour"},{"word":"minute"},{"word":"moment"},{"word":"o’clock"},{"word":"past"},{"word":"quarter"},{"word":"second"},{"word":"time"}],
+			[{"word":"ago"},{"word":"already"},{"word":"current"},{"word":"early"},{"word":"last"},{"word":"late"},{"word":"later"},{"word":"next"},{"word":"now"},{"word":"once"},{"word":"future"},{"word":"soon"},{"word":"today"},{"word":"tonight"},{"word":"tomorrow"},{"word":"week"},{"word":"weekend"},{"word":"year"},{"word":"yesterday"},{"word":"day"},{"word":"daily"}]
+		]
+	},
+	{
+		"name": "Money",
+		"children": [
+			[{"word":"bill"},{"word":"cash"},{"word":"cent"},{"word":"change"},{"word":"coin"},{"word":"credit card"},{"word":"dollar"},{"word":"money"},{"word":"price"}],
+			[{"word":"borrow"},{"word":"buy"},{"word":"charge"},{"word":"cost"},{"word":"earn"},{"word":"lend"},{"word":"pay"},{"word":"spend"}],
+			[{"word":"cheap"},{"word":"expensive"}]
+		]
+	},
+	{
+		"name": "Food & drinks",
+		"children": [
+			[{"word":"fruit"},{"word":"apple"},{"word":"banana"},{"word":"grape"},{"word":"guava"},{"word":"lemon"},{"word":"mango"},{"word":"orange"},{"word":"papaya"},{"word":"peach"},{"word":"pear"},{"word":"pineapple"},{"word":"strawberry"},{"word":"tangerine"},{"word":"tomato"},{"word":"watermelon"}],
+			[{"word":"vegetable"},{"word":"bean"},{"word":"cabbage"},{"word":"carrot"},{"word":"corn"},{"word":"lettuce"},{"word":"nut"},{"word":"onion"},{"word":"potato"},{"word":"pumpkin"},{"word":"meat"}],
+			[{"word":"beef"},{"word":"bread"},{"word":"bun"},{"word":"cereal"},{"word":"chicken"},{"word":"dumpling"},{"word":"egg"},{"word":"fast food"},{"word":"fish"},{"word":"flour"},{"word":"food"},{"word":"fries","aliases":["French fries"]},{"word":"ham"},{"word":"hamburger","aliases":["burger"]},{"word":"hot dog"},{"word":"instant noodle"},{"word":"noodle"},{"word":"pizza"},{"word":"pork"},{"word":"rice"},{"word":"salad"},{"word":"sandwich"},{"word":"seafood"},{"word":"shrimp"},{"word":"soup"},{"word":"spaghetti"},{"word":"steak"},{"word":"tofu"}],
+			[{"word":"breakfast"},{"word":"brunch"},{"word":"dinner"},{"word":"lunch"},{"word":"meal"},{"word":"snack"},{"word":"supper"}],
+			[{"word":"beer"},{"word":"coffee"},{"word":"cola"},{"word":"drink"},{"word":"ice"},{"word":"juice"},{"word":"liquid"},{"word":"milk"},{"word":"milk shake"},{"word":"soda"},{"word":"soft drink"},{"word":"tea"},{"word":"water"}],
+			[{"word":"cake"},{"word":"candy"},{"word":"cheese"},{"word":"chocolate"},{"word":"cookie"},{"word":"dessert"},{"word":"doughnut"},{"word":"ice cream"},{"word":"moon cake"},{"word":"pie"},{"word":"popcorn"},{"word":"toast"}],
+			[{"word":"butter"},{"word":"ketchup"},{"word":"cream"},{"word":"jam"},{"word":"oil"},{"word":"pepper"},{"word":"soy-sauce"},{"word":"salt"},{"word":"sugar"},{"word":"vinegar"}],
+			[{"word":"hungry"},{"word":"full"},{"word":"thirsty"}],
+			[{"word":"bitter"},{"word":"delicious"},{"word":"hot"},{"word":"sour"},{"word":"sweet"},{"word":"yummy"}],
+			[{"word":"bake"},{"word":"boil"},{"word":"burn"},{"word":"cook"},{"word":"eat"},{"word":"order"},{"word":"spread"}],
+			[{"word":"menu"},{"word":"diet"}],
+			[{"word":"slice"}]
+		]
+	},
+	{
+		"name": "Tableware",
+		"children": [
+			[{"word":"bowl"},{"word":"chopsticks"},{"word":"cup"},{"word":"dish"},{"word":"fork"},{"word":"glass"},{"word":"knife"},{"word":"napkin"},{"word":"plate"},{"word":"saucer"},{"word":"spoon"},{"word":"straw"}]
+		]
+	},
+	{
+		"name": "Clothing & accesories",
+		"children": [
+			[{"word":"blouse"},{"word":"coat"},{"word":"dress"},{"word":"jacket"},{"word":"jeans"},{"word":"pajamas"},{"word":"pants"},{"word":"raincoat"},{"word":"shirt"},{"word":"T-shirt"},{"word":"shorts"},{"word":"skirt"},{"word":"suit"},{"word":"sweater"},{"word":"swimsuit"},{"word":"trousers"},{"word":"uniform"},{"word":"underwear"},{"word":"vest"}],
+			[{"word":"bag"},{"word":"belt"},{"word":"button"},{"word":"cap"},{"word":"comb"},{"word":"contact lens"},{"word":"earrings"},{"word":"glove"},{"word":"handkerchief"},{"word":"hat"},{"word":"mask"},{"word":"necklace"},{"word":"pocket"},{"word":"purse"},{"word":"ring"},{"word":"scarf"},{"word":"shoes"},{"word":"slippers"},{"word":"sneakers"},{"word":"socks"},{"word":"tie"},{"word":"umbrella"},{"word":"wallet"},{"word":"hole"},{"word":"spot"}],
+			[{"word":"clothes"},{"word":"cotton"},{"word":"diamond"},{"word":"gold"},{"word":"silver"}],
+			[{"word":"iron"},{"word":"wear"}]
+		]
+	},
+	{
+		"name": "Colors",
+		"children": [
+			[{"word":"black"},{"word":"blue"},{"word":"brown"},{"word":"color"},{"word":"golden"},{"word":"gray"},{"word":"green"},{"word":"orange"},{"word":"pink"},{"word":"purple"},{"word":"red"},{"word":"white"},{"word":"yellow"}]
+		]
+	},
+	{
+		"name": "Sports, interests & hobbies",
+		"children": [
+			[{"word":"badminton"},{"word":"ball"},{"word":"baseball"},{"word":"basketball"},{"word":"dodge ball"},{"word":"football"},{"word":"frisbee"},{"word":"golf"},{"word":"race"},{"word":"soccer"},{"word":"softball"},{"word":"sports"},{"word":"table tennis"},{"word":"tennis"},{"word":"volleyball"}],
+			[{"word":"barbecue"},{"word":"bowling"},{"word":"camp","aliases":["camping"]},{"word":"climb","aliases":["mountain climbing"]},{"word":"cook","aliases":["cooking"]},{"word":"dance","aliases":["dancing"]},{"word":"draw","aliases":["drawing"]},{"word":"exercise"},{"word":"fish","aliases":["fishing"]},{"word":"hike","aliases":["hiking"]},{"word":"jog","aliases":["jogging"]},{"word":"picnic"},{"word":"roller blade"},{"word":"roller skate","aliases":["roller-skating"]},{"word":"run","aliases":["running"]},{"word":"sail","aliases":["sailing"]},{"word":"sing","aliases":["singing"]},{"word":"skate"},{"word":"ski","aliases":["skiing"]},{"word":"stamp"},{"word":"surf"},{"word":"swim","aliases":["swimming"]},{"word":"travel"},{"word":"trip"}],
+			[{"word":"hobby"},{"word":"band"},{"word":"card"},{"word":"cartoon"},{"word":"chess"},{"word":"comic"},{"word":"computer game"},{"word":"doll"},{"word":"drama"},{"word":"drum"},{"word":"film"},{"word":"flute"},{"word":"game"},{"word":"guitar"},{"word":"instrument"},{"word":"jazz"},{"word":"kite"},{"word":"movie"},{"word":"music"},{"word":"novel"},{"word":"paint"},{"word":"piano"},{"word":"pop music"},{"word":"puzzle"},{"word":"song"},{"word":"team"},{"word":"tent"},{"word":"toy"},{"word":"trumpet"},{"word":"violin"}],
+			[{"word":"lose"},{"word":"play"},{"word":"loser"},{"word":"win"},{"word":"winner"},{"word":"fan"}]
+		]
+	},
+	{
+		"name": "Houses & apartments",
+		"children": [
+			[{"word":"apartment"},{"word":"building"},{"word":"house"},{"word":"home"}],
+			[{"word":"basement"},{"word":"bathroom"},{"word":"bedroom"},{"word":"dining room"},{"word":"fence"},{"word":"garage"},{"word":"garden"},{"word":"hall"},{"word":"kitchen"},{"word":"living room"},{"word":"room"},{"word":"yard"}],
+			[{"word":"balcony"},{"word":"ceiling"},{"word":"door"},{"word":"downstairs"},{"word":"floor"},{"word":"gate"},{"word":"roof"},{"word":"stairs"},{"word":"upstairs"},{"word":"wall"},{"word":"window"}],
+			[{"word":"furniture"},{"word":"armchair"},{"word":"bath"},{"word":"bed"},{"word":"bench"},{"word":"bookcase"},{"word":"chair"},{"word":"closet"},{"word":"couch"},{"word":"curtain"},{"word":"desk"},{"word":"drawer"},{"word":"faucet"},{"word":"lamp"},{"word":"light"},{"word":"mirror"},{"word":"shelf"},{"word":"sink"},{"word":"sofa"},{"word":"table"},{"word":"tub"}],
+			[{"word":"blanket"},{"word":"carpet"},{"word":"hanger"},{"word":"pillow"},{"word":"sheet"},{"word":"toothbrush"},{"word":"soap"},{"word":"towel"}],
+			[{"word":"air conditioner"},{"word":"camera"},{"word":"computer"},{"word":"dresser"},{"word":"dryer"},{"word":"fan"},{"word":"flashlight"},{"word":"freezer"},{"word":"heater"},{"word":"machine"},{"word":"microwave"},{"word":"oven"},{"word":"radio"},{"word":"refrigerator","aliases":["fridge"]},{"word":"speaker"},{"word":"stove"},{"word":"tape"},{"word":"telephone","aliases":["phone"]},{"word":"television","aliases":["TV"]},{"word":"video"},{"word":"printer"}],
+			[{"word":"basket"},{"word":"brick"},{"word":"bucket"},{"word":"candle"},{"word":"hammer"},{"word":"housework"},{"word":"key"},{"word":"mat"},{"word":"needle"},{"word":"pan"},{"word":"pot"},{"word":"teapot"},{"word":"umbrella"},{"word":"toilet"},{"word":"trash can"},{"word":"wok"},{"word":"tube"}],
+			[{"word":"build"},{"word":"clean"},{"word":"decorate"},{"word":"design"},{"word":"fix"},{"word":"repair"},{"word":"sweep"},{"word":"wash"}],
+			[{"word":"address"},{"word":"road"},{"word":"street"}]
+		]
+	},
+	{
+		"name": "School",
+		"children": [
+			[{"word":"college"},{"word":"elementary school"},{"word":"junior high school"},{"word":"kindergarten"},{"word":"school"},{"word":"senior high school"},{"word":"university"}],
+			[{"word":"campus"},{"word":"classroom"},{"word":"guard"},{"word":"gym"},{"word":"playground"},{"word":"library"},{"word":"class"}],
+			[{"word":"seesaw"},{"word":"slide"}],
+			[{"word":"board"},{"word":"blackboard"},{"word":"book"},{"word":"chalk"},{"word":"crayon"},{"word":"diary"},{"word":"dictionary"},{"word":"envelope"},{"word":"eraser"},{"word":"glasses"},{"word":"glue"},{"word":"ink"},{"word":"letter"},{"word":"magazine"},{"word":"map"},{"word":"marker"},{"word":"notebook"},{"word":"page"},{"word":"paper"},{"word":"pen"},{"word":"pencil"},{"word":"pencil box","aliases":["pencil case"]},{"word":"picture"},{"word":"postcard"},{"word":"present"},{"word":"ruler"},{"word":"sheet"},{"word":"textbook"},{"word":"workbook"},{"word":"backpack"}],
+			[{"word":"course"},{"word":"art"},{"word":"Chinese"},{"word":"English"},{"word":"geography"},{"word":"history"},{"word":"biology"},{"word":"chemistry"},{"word":"physics"},{"word":"language"},{"word":"law"},{"word":"math","aliases":["mathematics"]},{"word":"music"},{"word":"PE","aliases":["physical education"]},{"word":"science"},{"word":"social science"}],
+			[{"word":"cheerleader"},{"word":"class leader"},{"word":"classmate"},{"word":"friend"},{"word":"principal"},{"word":"student"},{"word":"teacher"}],
+			[{"word":"answer"},{"word":"ask"},{"word":"behave"},{"word":"explain"},{"word":"fail"},{"word":"learn"},{"word":"listen"},{"word":"mark"},{"word":"pass"},{"word":"practice"},{"word":"prepare"},{"word":"pronounce"},{"word":"punish"},{"word":"read"},{"word":"repeat"},{"word":"review"},{"word":"say"},{"word":"speak"},{"word":"spell"},{"word":"study"},{"word":"talk"},{"word":"teach"},{"word":"underline"},{"word":"understand"},{"word":"write"}],
+			[{"word":"alphabet"},{"word":"conversation"},{"word":"draw"},{"word":"exam"},{"word":"example"},{"word":"exercise"},{"word":"final"},{"word":"grade"},{"word":"homework"},{"word":"knowledge"},{"word":"lesson"},{"word":"poem"},{"word":"problem"},{"word":"question"},{"word":"quiz"},{"word":"record"},{"word":"score"},{"word":"story"},{"word":"test"},{"word":"vocabulary"},{"word":"semester"}]
+		]
+	},
+	{
+		"name": "Places & locations",
+		"children": [
+			[{"word":"here"},{"word":"there"},{"word":"position"}],
+			[{"word":"back"},{"word":"backward"},{"word":"central"},{"word":"forward"},{"word":"front"},{"word":"left"},{"word":"middle"},{"word":"right"},{"word":"east"},{"word":"west"},{"word":"south"},{"word":"north"},{"word":"top"}],
+			[{"word":"bakery"},{"word":"bank"},{"word":"beach"},{"word":"bookstore"},{"word":"buffet"},{"word":"cafeteria"},{"word":"church"},{"word":"convenience store"},{"word":"culture center"},{"word":"department store"},{"word":"drugstore"},{"word":"factory"},{"word":"fast food restaurant"},{"word":"fire station"},{"word":"flower shop"},{"word":"hospital"},{"word":"hotel"},{"word":"mall"},{"word":"market"},{"word":"men’s room"},{"word":"women’s room"},{"word":"movie theater"},{"word":"museum"},{"word":"office"},{"word":"park"},{"word":"pool"},{"word":"post office"},{"word":"police station"},{"word":"restroom"},{"word":"restaurant"},{"word":"shop"},{"word":"stationery store"},{"word":"store"},{"word":"supermarket"},{"word":"temple"},{"word":"theater"},{"word":"waterfalls"},{"word":"zoo"}],
+			[{"word":"city"},{"word":"country"},{"word":"downtown"},{"word":"farm"},{"word":"place"},{"word":"town"},{"word":"village"}],
+			[{"word":"local"},{"word":"international"}]
+		]
+	},
+	{
+		"name": "Transportation",
+		"children": [
+			[{"word":"airplane","aliases":["plane"]},{"word":"ambulance"},{"word":"bicycle","aliases":["bike"]},{"word":"boat"},{"word":"bus"},{"word":"car"},{"word":"helicopter"},{"word":"jeep"},{"word":"motorcycle"},{"word":"scooter"},{"word":"ship"},{"word":"tank"},{"word":"taxi"},{"word":"train"},{"word":"truck"}],
+			[{"word":"airlines"},{"word":"airport"},{"word":"bus stop"},{"word":"parking lot"},{"word":"station"},{"word":"train station"}],
+			[{"word":"block"},{"word":"bridge"},{"word":"flat tire"},{"word":"highway"},{"word":"MRT"},{"word":"overpass"},{"word":"passenger"},{"word":"path"},{"word":"platform"},{"word":"railroad"},{"word":"railway"},{"word":"sidewalk"},{"word":"subway"},{"word":"traffic"},{"word":"underpass"},{"word":"wheel"}],
+			[{"word":"arrive"},{"word":"cross"},{"word":"drive"},{"word":"fly"},{"word":"land"},{"word":"ride"},{"word":"sail"},{"word":"turn"}],
+			[{"word":"fast"},{"word":"quick"},{"word":"slow"}]
+		]
+	},
+	{
+		"name": "Sizes & measurements",
+		"children": [
+			[{"word":"centimeter"},{"word":"foot"},{"word":"gram"},{"word":"inch"},{"word":"kilogram"},{"word":"kilometer"},{"word":"liter"},{"word":"meter"},{"word":"mile"},{"word":"pound"},{"word":"yard"}],
+			[{"word":"circle"},{"word":"dot"},{"word":"line"},{"word":"point"},{"word":"rectangle"},{"word":"row"},{"word":"shape"},{"word":"square"},{"word":"triangle"}],
+			[{"word":"angle"},{"word":"big"},{"word":"deep"},{"word":"distant"},{"word":"extra"},{"word":"far"},{"word":"high"},{"word":"large"},{"word":"light"},{"word":"little"},{"word":"long"},{"word":"low"},{"word":"maximum"},{"word":"medium"},{"word":"minus"},{"word":"narrow"},{"word":"plus"},{"word":"short"},{"word":"small"},{"word":"straight"},{"word":"tiny"},{"word":"wide"},{"word":"round"}],
+			[{"word":"bottle"},{"word":"cup"},{"word":"dozen"},{"word":"glass"},{"word":"loaf"},{"word":"pack"},{"word":"package"},{"word":"pair"},{"word":"piece"}],
+			[{"word":"size"},{"word":"height"},{"word":"distance"},{"word":"weight"},{"word":"amount"},{"word":"measure"}]
+		]
+	},
+	{
+		"name": "Countries and areas",
+		"children": [
+			[{"word":"Asia"},{"word":"country"},{"word":"nation"},{"word":"world"}],
+			[{"word":"America"},{"word":"China"},{"word":"Japan"},{"word":"Korea"},{"word":"Taiwan"},{"word":"R.O.C./ROC"},{"word":"U.S.A./USA"}]
+		]
+	},
+	{
+		"name": "Languages",
+		"children": [
+			[{"word":"Chinese"},{"word":"English"}]
+		]
+	},
+	{
+		"name": "Holidays & festivals",
+		"children": [
+			[{"word":"Chinese New Year"},{"word":"New Year’s Eve"},{"word":"Double Tenth Day"},{"word":"Dragon-boat Festival"},{"word":"Lantern Festival"},{"word":"Moon Festival"},{"word":"Teacher’s Day"}],
+			[{"word":"Christmas"},{"word":"Easter"},{"word":"Halloween"},{"word":"New Year’s Day"},{"word":"Mother’s Day"},{"word":"Father’s Day"},{"word":"Thanksgiving"},{"word":"Valentine’s Day"}],
+			[{"word":"culture"},{"word":"custom"},{"word":"festival"},{"word":"holiday"},{"word":"lantern"},{"word":"vacation"},{"word":"memory"}],
+			[{"word":"celebrate"}]
+		]
+	},
+	{
+		"name": "Occupations",
+		"children": [
+			[{"word":"actor"},{"word":"actress"},{"word":"artist"},{"word":"assistant"},{"word":"baby sitter"},{"word":"barber"},{"word":"boss"},{"word":"businessman"},{"word":"clerk"},{"word":"cook"},{"word":"cowboy"},{"word":"dentist"},{"word":"diplomat"},{"word":"doctor","aliases":["Dr."]},{"word":"driver"},{"word":"engineer"},{"word":"farmer"},{"word":"fisherman"},{"word":"guide"},{"word":"hair dresser"},{"word":"housewife"},{"word":"hunter"},{"word":"journalist"},{"word":"judge"},{"word":"lawyer"},{"word":"magician"},{"word":"mailman","aliases":["mail carrier"]},{"word":"manager"},{"word":"mechanic"},{"word":"model"},{"word":"musician"},{"word":"nurse"},{"word":"owner"},{"word":"painter"},{"word":"police"},{"word":"officer"},{"word":"president"},{"word":"priest"},{"word":"reporter"},{"word":"sailor"},{"word":"salesman"},{"word":"scientist"},{"word":"secretary"},{"word":"servant"},{"word":"shopkeeper"},{"word":"singer"},{"word":"soldier"},{"word":"waiter"},{"word":"waitress"},{"word":"worker"},{"word":"writer"},{"word":"vendor."}],
+			[{"word":"business"},{"word":"company"},{"word":"employ"},{"word":"hire"},{"word":"job"},{"word":"work"}]
+		]
+	},
+	{
+		"name": "Weather & nature",
+		"children": [
+			[{"word":"weather"},{"word":"clear"},{"word":"cloudy"},{"word":"cold"},{"word":"cool"},{"word":"dry"},{"word":"foggy"},{"word":"freezing"},{"word":"hot"},{"word":"humid"},{"word":"rainy"},{"word":"snowy"},{"word":"stormy"},{"word":"sunny"},{"word":"warm"},{"word":"wet"},{"word":"windy"}],
+			[{"word":"fog"},{"word":"lightning"},{"word":"rainbow"},{"word":"shower"},{"word":"snow"},{"word":"snowman"},{"word":"storm"},{"word":"thunder"},{"word":"typhoon"},{"word":"wind"}],
+			[{"word":"blow"},{"word":"rain"},{"word":"shine"}],
+			[{"word":"nature"},{"word":"natural"},{"word":"air"},{"word":"climate"},{"word":"cloud"},{"word":"degree"},{"word":"earth"},{"word":"earthquake"},{"word":"moon"},{"word":"sky"},{"word":"sun"},{"word":"star"},{"word":"temperature"}]
+		]
+	},
+	{
+		"name": "Geographical terms",
+		"children": [
+			[{"word":"area"},{"word":"bank"},{"word":"beach"},{"word":"coast"},{"word":"desert"},{"word":"environment"},{"word":"forest"},{"word":"hill"},{"word":"island"},{"word":"lake"},{"word":"mountain"},{"word":"ocean"},{"word":"plain"},{"word":"pond"},{"word":"pool"},{"word":"river"},{"word":"sea"},{"word":"spring"},{"word":"stream"},{"word":"valley"},{"word":"woods"}]
+		]
+	},
+	{
+		"name": "Animals & insects",
+		"children": [
+			[{"word":"animal"},{"word":"bear"},{"word":"cat"},{"word":"chicken"},{"word":"cow"},{"word":"deer"},{"word":"dinosaur"},{"word":"dog"},{"word":"donkey"},{"word":"duck"},{"word":"eagle"},{"word":"elephant"},{"word":"fox"},{"word":"frog"},{"word":"goat"},{"word":"goose"},{"word":"hen"},{"word":"hippo"},{"word":"horse"},{"word":"kangaroo"},{"word":"kitten"},{"word":"koala"},{"word":"lamb"},{"word":"lion"},{"word":"monkey"},{"word":"monster"},{"word":"mouse"},{"word":"ox"},{"word":"panda"},{"word":"parrot"},{"word":"pet"},{"word":"pig"},{"word":"pigeon"},{"word":"puppy"},{"word":"rabbit"},{"word":"rat"},{"word":"sheep"},{"word":"swan"},{"word":"tiger"},{"word":"turkey"},{"word":"wolf"},{"word":"zebra"}],
+			[{"word":"insect"},{"word":"ant"},{"word":"bat"},{"word":"bee"},{"word":"bird"},{"word":"bug"},{"word":"butterfly"},{"word":"cockroach"},{"word":"dragon"},{"word":"mosquito"},{"word":"snail"},{"word":"snake"},{"word":"spider"},{"word":"worm"}],
+			[{"word":"crab"},{"word":"dolphin"},{"word":"fish"},{"word":"shark"},{"word":"shrimp"},{"word":"turtle"},{"word":"whale"}],
+			[{"word":"bark"},{"word":"bite"},{"word":"swallow"}],
+			[{"word":"tail"},{"word":"wing"}]
+		]
+	},
+	{
+		"name": "Articles & determiners",
+		"children": [
+			[{"word":"a/an"},{"word":"every"},{"word":"the"},{"word":"this"},{"word":"that"},{"word":"these"},{"word":"those"},{"word":"my"},{"word":"our"},{"word":"your"},{"word":"his"},{"word":"her"},{"word":"its"},{"word":"their"}]
+		]
+	},
+	{
+		"name": "Pronouns & reflexives",
+		"children": [
+			[{"word":"I","aliases":["me","my","mine","myself"]},{"word":"you","aliases":["you","your","yours","yourself","yourselves"]},{"word":"he","aliases":["him","his","himself"]},{"word":"she","aliases":["her","hers","herself"]},{"word":"it","aliases":["its","itself"]},{"word":"we","aliases":["us","our","ours","ourselves"]},{"word":"they","aliases":["them","their","theirs","themselves"]}],
+			[{"word":"all"},{"word":"another"},{"word":"any"},{"word":"anyone","aliases":["anybody"]},{"word":"anything"},{"word":"both"},{"word":"each"},{"word":"everyone","aliases":["everybody"]},{"word":"everything"},{"word":"many"},{"word":"most"},{"word":"nobody"},{"word":"none"},{"word":"nothing"},{"word":"other"},{"word":"part"},{"word":"some"},{"word":"someone","aliases":["somebody"]},{"word":"something"}]
+		]
+	},
+	{
+		"name": "Wh-words",
+		"children": [
+			[{"word":"how"},{"word":"what"},{"word":"which"},{"word":"who"},{"word":"whose"},{"word":"when"},{"word":"where"},{"word":"whether"},{"word":"while"},{"word":"why"}]
+		]
+	},
+	{
+		"name": "Be & auxiliaries",
+		"children": [
+			[{"word":"be","aliases":["am","are","is","was","were","been,"]}],
+			[{"word":"do","aliases":["does","did","done"]},{"word":"have","aliases":["has","had"]},{"word":"can"},{"word":"could"},{"word":"will","aliases":["would"]},{"word":"may","aliases":["might"]}],
+			[{"word":"must"},{"word":"shall"},{"word":"should"}]
+		]
+	},
+	{
+		"name": "Prepositions",
+		"children": [
+			[{"word":"about"},{"word":"above"},{"word":"across"},{"word":"after"},{"word":"against"},{"word":"along"},{"word":"among"},{"word":"around"},{"word":"at"},{"word":"before"},{"word":"behind"},{"word":"below"},{"word":"beside"},{"word":"between"},{"word":"beyond"},{"word":"by"},{"word":"down"},{"word":"during"},{"word":"except"},{"word":"for"},{"word":"from"},{"word":"in"},{"word":"in back of"},{"word":"in front of"},{"word":"inside"},{"word":"into"},{"word":"like"},{"word":"near"},{"word":"of"},{"word":"off"},{"word":"on"},{"word":"out"},{"word":"out of"},{"word":"outside"},{"word":"over"},{"word":"next to"},{"word":"since"},{"word":"than"},{"word":"through"},{"word":"till"},{"word":"to"},{"word":"toward"},{"word":"under"},{"word":"until"},{"word":"up"},{"word":"upon"},{"word":"upper"},{"word":"with"},{"word":"without"}]
+		]
+	},
+	{
+		"name": "Conjunctions",
+		"children": [
+			[{"word":"and"},{"word":"as"},{"word":"because"},{"word":"besides"},{"word":"but"},{"word":"however"},{"word":"if"},{"word":"or"},{"word":"since"},{"word":"than"},{"word":"that"},{"word":"therefore"},{"word":"though","aliases":["although"]}]
+		]
+	},
+	{
+		"name": "Interjections",
+		"children": [
+			[{"word":"hello"},{"word":"hey"},{"word":"hi"},{"word":"good-bye","aliases":["goodbye","bye"]}]
+		]
+	},
+	{
+		"name": "Other nouns",
+		"children": [
+			[{"word":"accident"},{"word":"action"},{"word":"activity"},{"word":"advertisement"},{"word":"advice"},{"word":"age"},{"word":"aim"},{"word":"alarm"},{"word":"album"},{"word":"American"},{"word":"anger"},{"word":"army"},{"word":"Asian"},{"word":"attention"},{"word":"balloon"},{"word":"band"},{"word":"base"},{"word":"beauty"},{"word":"beginner"},{"word":"beginning"},{"word":"bell"},{"word":"birthday"},{"word":"blank"},{"word":"blood"},{"word":"bomb"},{"word":"bottom"},{"word":"box"},{"word":"branch"},{"word":"bundle"},{"word":"cable"},{"word":"cage"},{"word":"can"},{"word":"captain"},{"word":"case"},{"word":"castle"},{"word":"cause"},{"word":"cellphone"},{"word":"center"},{"word":"century"},{"word":"chance"},{"word":"channel"},{"word":"character"},{"word":"chart"},{"word":"cheer"},{"word":"childhood"},{"word":"choice"},{"word":"club"},{"word":"coach"},{"word":"command"},{"word":"congratulation"},{"word":"contract"},{"word":"corner"},{"word":"courage"},{"word":"court"},{"word":"crime"},{"word":"crowd"},{"word":"curve"},{"word":"damage"},{"word":"danger"},{"word":"debate"},{"word":"decision"},{"word":"department"},{"word":"desire"},{"word":"difference"},{"word":"difficulty"},{"word":"direction"},{"word":"discussion"},{"word":"dream"},{"word":"duty"},{"word":"edge"},{"word":"education"},{"word":"effort"},{"word":"e-mail"},{"word":"emotion"},{"word":"enemy"},{"word":"energy"},{"word":"engine"},{"word":"entrance"},{"word":"error"},{"word":"eve"},{"word":"event"},{"word":"excuse"},{"word":"exit"},{"word":"experience"},{"word":"fact"},{"word":"fault"},{"word":"fear"},{"word":"fee"},{"word":"feeling"},{"word":"file"},{"word":"fire"},{"word":"flag"},{"word":"flight"},{"word":"foreigner"},{"word":"flower"},{"word":"freedom"},{"word":"friendship"},{"word":"fun"},{"word":"garbage"},{"word":"gas"},{"word":"gesture"},{"word":"ghost"},{"word":"gift"},{"word":"goal"},{"word":"god"},{"word":"goodness"},{"word":"government"},{"word":"grass"},{"word":"ground"},{"word":"group"},{"word":"gun"},{"word":"habit"},{"word":"haircut"},{"word":"heat"},{"word":"honesty"},{"word":"honey"},{"word":"human"},{"word":"humor"},{"word":"hunger"},{"word":"idea"},{"word":"importance"},{"word":"income"},{"word":"influence"},{"word":"information"},{"word":"interest"},{"word":"Internet","aliases":["Net"]},{"word":"interview"},{"word":"invitation"},{"word":"item"},{"word":"Japanese"},{"word":"joke"},{"word":"joy"},{"word":"kind"},{"word":"kingdom"},{"word":"Korean"},{"word":"lack"},{"word":"leader"},{"word":"leaf"},{"word":"level"},{"word":"lid"},{"word":"link"},{"word":"locker"},{"word":"mail"},{"word":"manner"},{"word":"mass"},{"word":"matter"},{"word":"meaning"},{"word":"meeting"},{"word":"member"},{"word":"message"},{"word":"metal"},{"word":"method"},{"word":"metro"},{"word":"mind"},{"word":"mistake"},{"word":"motion"},{"word":"movement"},{"word":"mud"},{"word":"nest"},{"word":"news"},{"word":"newspaper"},{"word":"noise"},{"word":"note"},{"word":"object"},{"word":"operation"},{"word":"opinion"},{"word":"order"},{"word":"party"},{"word":"pattern"},{"word":"peace"},{"word":"period"},{"word":"photo"},{"word":"pile"},{"word":"pin"},{"word":"pipe"},{"word":"planet"},{"word":"player"},{"word":"pleasure"},{"word":"poison"},{"word":"pollution"},{"word":"population"},{"word":"powder"},{"word":"power"},{"word":"pressure"},{"word":"prize"},{"word":"production"},{"word":"program"},{"word":"progress"},{"word":"project"},{"word":"purpose"},{"word":"reason"},{"word":"report"},{"word":"result"},{"word":"robot"},{"word":"rock"},{"word":"role"},{"word":"root"},{"word":"rope"},{"word":"rose"},{"word":"rule"},{"word":"safety"},{"word":"sale"},{"word":"sample"},{"word":"sand"},{"word":"scene"},{"word":"scenery"},{"word":"screen"},{"word":"secret"},{"word":"seat"},{"word":"section"},{"word":"seed"},{"word":"sense"},{"word":"sentence"},{"word":"service"},{"word":"set"},{"word":"shore"},{"word":"side"},{"word":"sight"},{"word":"silence"},{"word":"skill"},{"word":"smile"},{"word":"society"},{"word":"soul"},{"word":"space"},{"word":"speech"},{"word":"speed"},{"word":"spirit"},{"word":"state"},{"word":"steam"},{"word":"step"},{"word":"stone"},{"word":"story"},{"word":"string"},{"word":"style"},{"word":"subject"},{"word":"success"},{"word":"swing"},{"word":"symbol"},{"word":"system"},{"word":"Taiwanese"},{"word":"talent"},{"word":"tear"},{"word":"term"},{"word":"thief"},{"word":"thing"},{"word":"thought"},{"word":"ticket"},{"word":"tip"},{"word":"title"},{"word":"tool"},{"word":"topic"},{"word":"tower"},{"word":"trade"},{"word":"tradition"},{"word":"trash"},{"word":"treasure"},{"word":"treat"},{"word":"tree"},{"word":"trick"},{"word":"trouble"},{"word":"truth"},{"word":"tunnel"},{"word":"universe"},{"word":"value"},{"word":"victory"},{"word":"voice"},{"word":"war"},{"word":"way"},{"word":"wedding"},{"word":"wood"},{"word":"word"},{"word":"memory"},{"word":"net"},{"word":"principle"}]
+		]
+	},
+	{
+		"name": "Other verbs",
+		"children": [
+			[{"word":"feel"},{"word":"hear"},{"word":"listen"},{"word":"look"},{"word":"see"},{"word":"smell"},{"word":"sound"},{"word":"taste"},{"word":"watch"}],
+			[{"word":"check"},{"word":"complete"},{"word":"end"},{"word":"finish"},{"word":"succeed"},{"word":"survive"}],
+			[{"word":"affect"},{"word":"believe"},{"word":"blame"},{"word":"bother"},{"word":"confuse"},{"word":"consider"},{"word":"develop"},{"word":"divide"},{"word":"doubt"},{"word":"ease"},{"word":"embarrass"},{"word":"forgive"},{"word":"forget"},{"word":"frighten"},{"word":"gather"},{"word":"guess"},{"word":"hate"},{"word":"hope"},{"word":"imagine"},{"word":"inspire"},{"word":"know"},{"word":"like"},{"word":"love"},{"word":"mind"},{"word":"need"},{"word":"notice"},{"word":"realize"},{"word":"regret"},{"word":"remember"},{"word":"remind"},{"word":"surprise"},{"word":"think"},{"word":"want"},{"word":"wish"},{"word":"worry"},{"word":"bless"}],
+			[{"word":"act"},{"word":"bathe"},{"word":"beat"},{"word":"blow"},{"word":"bow"},{"word":"break"},{"word":"bring"},{"word":"brush"},{"word":"carry"},{"word":"catch"},{"word":"chase"},{"word":"cheat"},{"word":"choose"},{"word":"clap"},{"word":"close"},{"word":"come"},{"word":"control"},{"word":"collect"},{"word":"comment"},{"word":"correct"},{"word":"copy"},{"word":"count"},{"word":"cover"},{"word":"cry"},{"word":"cut"},{"word":"dial"},{"word":"dig"},{"word":"define"},{"word":"deliver"},{"word":"drop"},{"word":"elect"},{"word":"enter"},{"word":"exist"},{"word":"feed"},{"word":"fight"},{"word":"follow"},{"word":"fry"},{"word":"go"},{"word":"greet"},{"word":"grow"},{"word":"guide"},{"word":"hand"},{"word":"hang"},{"word":"help"},{"word":"hit"},{"word":"hold"},{"word":"hop"},{"word":"hunt"},{"word":"hurry"},{"word":"jump"},{"word":"kick"},{"word":"knock"},{"word":"kill"},{"word":"kiss"},{"word":"laugh"},{"word":"lay"},{"word":"leave"},{"word":"lick"},{"word":"lift"},{"word":"list"},{"word":"lock"},{"word":"make"},{"word":"meet"},{"word":"miss"},{"word":"mix"},{"word":"move"},{"word":"nod"},{"word":"offer"},{"word":"open"},{"word":"pack"},{"word":"park"},{"word":"paste"},{"word":"pause"},{"word":"pick"},{"word":"plant"},{"word":"print"},{"word":"pull"},{"word":"pump"},{"word":"produce"},{"word":"protect"},{"word":"push"},{"word":"put"},{"word":"recycle"},{"word":"revise"},{"word":"rise"},{"word":"roll"},{"word":"rub"},{"word":"run"},{"word":"rush"},{"word":"rob"},{"word":"rest"},{"word":"shake"},{"word":"shoot"},{"word":"shout"},{"word":"shut"},{"word":"smoke"},{"word":"sign"},{"word":"stand"},{"word":"steal"},{"word":"strike"},{"word":"take"},{"word":"tell"},{"word":"throw"},{"word":"touch"},{"word":"trace"},{"word":"trap"},{"word":"type"},{"word":"use"},{"word":"vote"},{"word":"walk"},{"word":"wave"},{"word":"hug"},{"word":"yell"},{"word":"mop"}],
+			[{"word":"accept"},{"word":"add"},{"word":"admire"},{"word":"advise"},{"word":"agree"},{"word":"allow"},{"word":"apologize"},{"word":"appear"},{"word":"appreciate"},{"word":"argue"},{"word":"arrange"},{"word":"assume"},{"word":"attack"},{"word":"avoid"},{"word":"become"},{"word":"begin"},{"word":"belong"},{"word":"broadcast"},{"word":"burst"},{"word":"call"},{"word":"calm"},{"word":"cancel"},{"word":"care"},{"word":"certain"},{"word":"check"},{"word":"compare"},{"word":"complain"},{"word":"concern"},{"word":"continue"},{"word":"create"},{"word":"date"},{"word":"deal"},{"word":"decide"},{"word":"decrease"},{"word":"depend"},{"word":"describe"},{"word":"detect"},{"word":"die"},{"word":"direct"},{"word":"disappear"},{"word":"discover"},{"word":"discuss"},{"word":"download"},{"word":"emphasize"},{"word":"enjoy"},{"word":"envy"},{"word":"excite"},{"word":"expect"},{"word":"explain"},{"word":"express"},{"word":"fall"},{"word":"fill"},{"word":"find"},{"word":"fit"},{"word":"focus"},{"word":"form"},{"word":"gain"},{"word":"get"},{"word":"give"},{"word":"handle"},{"word":"happen"},{"word":"hide"},{"word":"hurt"},{"word":"improve"},{"word":"include"},{"word":"ignore"},{"word":"increase"},{"word":"indicate"},{"word":"insist"},{"word":"interrupt"},{"word":"introduce"},{"word":"invent"},{"word":"invite"},{"word":"join"},{"word":"judge"},{"word":"keep"},{"word":"lead"},{"word":"let"},{"word":"lie"},{"word":"limit"},{"word":"list"},{"word":"match"},{"word":"mean"},{"word":"notice"},{"word":"obey"},{"word":"omit"},{"word":"own"},{"word":"pardon"},{"word":"plan"},{"word":"please"},{"word":"pollute"},{"word":"praise"},{"word":"pray"},{"word":"prepare"},{"word":"promise"},{"word":"provide"},{"word":"quit"},{"word":"raise"},{"word":"reach"},{"word":"receive"},{"word":"refuse"},{"word":"reject"},{"word":"rent"},{"word":"respect"},{"word":"return"},{"word":"ruin"},{"word":"solve"},{"word":"satisfy"},{"word":"save"},{"word":"search"},{"word":"seem"},{"word":"select"},{"word":"sell"},{"word":"send"},{"word":"serve"},{"word":"share"},{"word":"show"},{"word":"sit"},{"word":"sleep"},{"word":"start"},{"word":"stay"},{"word":"stop"},{"word":"suggest"},{"word":"support"},{"word":"thank"},{"word":"treat"},{"word":"trust"},{"word":"try"},{"word":"upload"},{"word":"visit"},{"word":"wait"},{"word":"wake"},{"word":"waste"},{"word":"welcome"}]
+		]
+	},
+	{
+		"name": "Other adjectives",
+		"children": [
+			[{"word":"able"},{"word":"absent"},{"word":"afraid"},{"word":"alike"},{"word":"alive"},{"word":"alone"},{"word":"American"},{"word":"ancient"},{"word":"asleep"},{"word":"available"},{"word":"basic"},{"word":"bright"},{"word":"broad"},{"word":"classical"},{"word":"colorful"},{"word":"common"},{"word":"complete"},{"word":"convenient"},{"word":"correct"},{"word":"crowded"},{"word":"dangerous"},{"word":"dark"},{"word":"dead"},{"word":"dear"},{"word":"different"},{"word":"difficult"},{"word":"dirty"},{"word":"double"},{"word":"easy"},{"word":"electric"},{"word":"else"},{"word":"enough"},{"word":"equal"},{"word":"excellent"},{"word":"false"},{"word":"fancy"},{"word":"fantastic"},{"word":"fair"},{"word":"fashionable"},{"word":"favorite"},{"word":"fine"},{"word":"foreign"},{"word":"formal"},{"word":"former"},{"word":"free"},{"word":"fresh"},{"word":"general"},{"word":"glad"},{"word":"great"},{"word":"hard"},{"word":"helpful"},{"word":"homesick"},{"word":"horrible"},{"word":"important"},{"word":"impossible"},{"word":"independent"},{"word":"instant"},{"word":"interesting"},{"word":"latest"},{"word":"latter"},{"word":"likely"},{"word":"loud"},{"word":"lucky"},{"word":"magic"},{"word":"main"},{"word":"major"},{"word":"marvelous"},{"word":"minor"},{"word":"modern"},{"word":"national"},{"word":"necessary"},{"word":"new"},{"word":"negative"},{"word":"noisy"},{"word":"only"},{"word":"ordinary"},{"word":"other"},{"word":"overseas"},{"word":"own"},{"word":"OK"},{"word":"peaceful"},{"word":"perfect"},{"word":"personal"},{"word":"pleasant"},{"word":"pop"},{"word":"popular"},{"word":"positive"},{"word":"possible"},{"word":"precious"},{"word":"present"},{"word":"primary"},{"word":"private"},{"word":"public"},{"word":"quiet"},{"word":"rare"},{"word":"ready"},{"word":"real"},{"word":"regular"},{"word":"responsible"},{"word":"right"},{"word":"safe"},{"word":"same"},{"word":"scared"},{"word":"secondary"},{"word":"serious"},{"word":"sharp"},{"word":"silent"},{"word":"similar"},{"word":"simple"},{"word":"single"},{"word":"skillful"},{"word":"sleepy"},{"word":"sorry"},{"word":"special"},{"word":"strange"},{"word":"such"},{"word":"sudden"},{"word":"super"},{"word":"sure"},{"word":"surprised"},{"word":"terrible"},{"word":"terrific"},{"word":"thick"},{"word":"tidy"},{"word":"traditional"},{"word":"true"},{"word":"unique"},{"word":"useful"},{"word":"usual"},{"word":"valuable"},{"word":"social"},{"word":"whole"},{"word":"wild"},{"word":"wonderful"},{"word":"wrong"}]
+		]
+	},
+	{
+		"name": "Other adverbs",
+		"children": [
+			[{"word":"always"},{"word":"ever"},{"word":"never"},{"word":"often"},{"word":"seldom"},{"word":"sometimes"},{"word":"usually"}],
+			[{"word":"actually"},{"word":"again"},{"word":"also"},{"word":"away"},{"word":"too"},{"word":"almost"},{"word":"altogether"},{"word":"especially"},{"word":"even"},{"word":"finally"},{"word":"hardly"},{"word":"just"},{"word":"least"},{"word":"maybe"},{"word":"nearly"},{"word":"only"},{"word":"perhaps"},{"word":"probably"},{"word":"rather"},{"word":"really"},{"word":"so"},{"word":"still"},{"word":"then"},{"word":"together"},{"word":"twice"},{"word":"very"},{"word":"quite"},{"word":"yet"}],
+			[{"word":"aloud"}],
+			[{"word":"abroad"},{"word":"ahead"},{"word":"everywhere"},{"word":"anywhere"},{"word":"somewhere"}],
+			[{"word":"either"},{"word":"neither"},{"word":"no"},{"word":"nor"},{"word":"not"},{"word":"OK"},{"word":"yes","aliases":["yeah"]}]
+		]
+	}
+]
